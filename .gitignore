@@ -1,0 +1,22 @@
+# Build Folders inside DoAnWinform
+DoAnWinform/bin/
+DoAnWinform/obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.vspscc
+*.vssscc
+
+# Visual Studio cache
+.vs/
+
+# Build results
+*.exe
+*.dll
+*.pdb
