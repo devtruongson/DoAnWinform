@@ -27,7 +27,12 @@ namespace DoAnWinform
         {
             QuanLySinhVien frmSinhVien = new QuanLySinhVien();
             frmSinhVien.ShowDialog();
-            
+        }
+
+        private void quảnLýChuyênNghànhToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ChuyenNganh frmSinhVien = new ChuyenNganh();
+            frmSinhVien.ShowDialog();
         }
     }
 }
