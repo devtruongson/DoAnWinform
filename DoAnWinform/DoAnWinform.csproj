@@ -66,6 +66,7 @@
     </Compile>
     <Compile Include="Model\ChuyenNganhDB.cs" />
     <Compile Include="Model\ConnectDB.cs" />
+    <Compile Include="Model\SinhVienDB.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="QuanLySinhVien.cs">

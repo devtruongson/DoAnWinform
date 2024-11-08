@@ -9,7 +9,7 @@ namespace DoAnWinform.Model
 {
     internal class ConnectDB
     {
-        private readonly string connectionString = @"Data Source=TRUONGSON\SQLEXPRESS01;Initial Catalog=QLDiem;Integrated Security=True;";
+        private readonly string connectionString = @"Data Source=TRUONGSON\SQLEXPRESS01;Initial Catalog=QuanLyDiemSV;Integrated Security=True;";
         private SqlConnection connection;
 
         public ConnectDB()
